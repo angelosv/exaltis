@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "nelson-b104a"
+    "default": "nelson-b104a",
+    "exaltis": "exaltis-f1fdf"
   }
 }

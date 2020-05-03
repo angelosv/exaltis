@@ -32,11 +32,11 @@ export const Item = styled.div`
   box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.11);
   border-radius: 10px;
   h3 {
-    color: #189c50;
+    color: #1b2b3a;
   }
 
   p {
-    color: #707070;
+    color: #1b2b3a;
     font-size: 12px;
   }
 `;

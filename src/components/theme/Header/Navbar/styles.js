@@ -7,9 +7,9 @@ export const Wrapper = styled.div`
   justify-content: space-between;
 
   a {
-    color: #189c50;
+    color: #1b2b3a;
   }
   &:hover {
-    color: #212121;
+    color: #1b2b3a;
   }
 `;

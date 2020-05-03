@@ -67,7 +67,7 @@ export const colors = {
     white: '#fff',
     lightBlack: '#55565b',
     SecondaryColor: '#17B8F3',
-    darkGrey: '#212121',
+    darkGrey: '#1b2b3a',
     Blue: '#141629',
     footer: '#141629',
     lightGrey: '#919191',

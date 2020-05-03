@@ -13,10 +13,10 @@ export const Button = styled.button`
   -ms-user-select: none;
   user-select: none;
   color: #fff;
-  background: #189c50;
+  background: #f9c707;
   transition: background 0.5s ease;
   &:hover {
-    background: #004a97;
+    background: #color;
   }
   &:focus {
     outline: none;
@@ -29,6 +29,6 @@ export const Button = styled.button`
   ${({ secondary }) =>
     secondary &&
     `
-		background: #189c50;
+		background: #f9c707;
 	`}
 `;

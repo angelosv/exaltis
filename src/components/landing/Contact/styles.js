@@ -26,7 +26,7 @@ text-align:center;
   h1 {
     margin-bottom: 2rem;
     font-size: 26pt;
-    color: #212121;
+    color: #1b2b3a;
   }
 
   p {
@@ -34,7 +34,7 @@ text-align:center;
     font-size: 20pt;
     font-weight: normal;
     line-height: 1.3;
-    color: #707070;
+    color: #1b2b3a;
   }
 `;
 
