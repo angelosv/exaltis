@@ -13,24 +13,17 @@ export const Footer = () => (
     <Flex as={Container}>
       <Details>
         <Link to="/">
-          <img src={logo} width="120px" alt="I’m John and I’m a Backend & Devops engineer!" />
-          <h2>Inlanddetstillas</h2>
+          <img src={logo} width="250px" />
         </Link>
       </Details>
+
       <Links>
         <ul>
-          <li>Exaltis AS</li>
+          <li><b>Exaltis AS</b></li>
           <li>Org.nr. 922593159</li>
           <li>+47 (0)8888 8888</li>
-          <li>info@innlandetstillas.no</li>
-        </ul>
-      </Links>
-      <Links>
-        <ul>
-          <li>Exaltis AS</li>
-          <li>Org.nr. 922593159</li>
-          <li>+47 (0)8888 8888</li>
-          <li>info@innlandetstillas.no</li>
+          <li>Meierivegen 10, 2340 Løten, Norge</li>
+          <li>post@Exaltis.no</li>
         </ul>
       </Links>
     </Flex>

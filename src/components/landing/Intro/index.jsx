@@ -13,18 +13,20 @@ export const Intro = () => (
         <h1>
           DU SKAL TRIVES I HØYDEN
           <br />
-          MED Inlanndetstillas
+          MED EXALTIS
         </h1>
         <p>
-          totalleverandørene av stillas i Norge. Våre hovedsatsingsområder er å levere stillas til industri, offshore,
-          bygg samt vedlikehold og modifikasjonsprosesser.
+        Leverandør av stillas med base i Innlandet.
+Vi leverer stillas til alt innen nybygg i tillegg til
+vedlikehold og ombygg av private og offentlige bygg.
+Vårer kunder er hovedsakelig i Oslo, Viken og Innlandet fylker.
         </p>
         <Button as={AnchorLink} href="#omoss">
           Om oss
         </Button>
       </Details>
       <Thumbnail>
-        <img src={dev} alt="I’m John and I’m a Backend & Devops engineer!" />
+        <img src={dev} alt="-" />
       </Thumbnail>
     </IntroWrapper>
   </Wrapper>

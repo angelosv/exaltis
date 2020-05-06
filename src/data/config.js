@@ -1,6 +1,6 @@
 module.exports = {
-  defaultTitle: 'Innlanndetstillas',
-  logo: 'Innlanndetstillas',
+  defaultTitle: 'Exaltis',
+  logo: 'Exaltis',
   author: '',
   url: '',
   legalName: '',

@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Error = styled.span`
-  color: #ff4136;
+  color: #f9c707;
 `;
 
 export const Center = styled.div`

@@ -34,7 +34,7 @@ export const Contact = () => (
 export const InputCustom = styled.input`
   width: 100%;
   box-sizing: border-box;
-  border: 2px solid #1b2b3a;
+  border: 2px solid #f9c707;
   padding: 0.8rem 1rem;
   border-radius: 7px;
   margin-bottom: 0.5rem;
@@ -54,7 +54,7 @@ export const InputCustom = styled.input`
 export const InputCustomText = styled.input`
   width: 100%;
   box-sizing: border-box;
-  border: 2px solid 189c50;
+  border: 2px solid #f9c707;
   padding: 0.8rem 1rem;
   border-radius: 7px;
   margin-bottom: 0.5rem;

@@ -15,9 +15,7 @@ export const Projects = () => (
             <h3>Lettstillas</h3>
             <p>Lettstillas i aluminium, klasse 3 (200 kg./m2).</p>
             <p>
-              Dette er et allsidig stillas som er tilstrekkelig for de fleste typer fasadearbeid. Eksempler på dette er
-              maling, bytte av panel, vinduer med mer. Lettstillas er raskt å montere. Plattform har bredde på 61 cm.
-              Leveres med sparkebord og rekkverk.
+Dette er et allsidig stillas som er tilstrekkelig for de fleste typer fasadearbeid. Eksempler på dette er maling, bytte av panel, vinduer med mer. Lettstillas er raskt å montere. Plattform har bredde på 61 cm. Leveres med sparkebord og rekkverk.
             </p>
           </Content>
           <Stats></Stats>

@@ -13,7 +13,7 @@ export const Skills = () => (
       <Details>
         <h1>Om oss</h1>
         <p>
-          Innlandet Stillas er tilbyr utleie og montering av stillas. Vårt mål er at dine håndtverkere skal ha en trygg
+          Exaltis er tilbyr utleie og montering av stillas. Vårt mål er at dine håndtverkere skal ha en trygg
           og sikker arbeidsplass. Vårt team har lang erfaring i bransjen både i Norge, off-shore og internasjonalt. Vi
           stiller med et topp forberedt team som gir tryggheten som kreves for at deres prosjekteter skal lykkes.
         </p>
