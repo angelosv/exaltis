@@ -34,7 +34,7 @@ export const Contact = () => (
 export const InputCustom = styled.input`
   width: 100%;
   box-sizing: border-box;
-  border: 2px solid #f9c707;
+  border: 2px solid #1a2c39;
   padding: 0.8rem 1rem;
   border-radius: 7px;
   margin-bottom: 0.5rem;
@@ -54,7 +54,7 @@ export const InputCustom = styled.input`
 export const InputCustomText = styled.input`
   width: 100%;
   box-sizing: border-box;
-  border: 2px solid #f9c707;
+  border: 2px solid #1a2c39;
   padding: 0.8rem 1rem;
   border-radius: 7px;
   margin-bottom: 0.5rem;
@@ -85,8 +85,8 @@ export const ButtonCustom = styled.button`
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  color: #fff;
-  background: #fec70e;
+  color: #fec70e;
+  background: #1a2c39;
   transition: background 0.5s ease;
   &:hover {
     background: #004a97;

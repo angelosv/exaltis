@@ -12,11 +12,11 @@ export const Button = styled.button`
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  color: #fff;
-  background: #f9c707;
+  color: #f9c707;
+  background: #1d2b3c;
   transition: background 0.5s ease;
   &:hover {
-    background: #color;
+    background: #1d2b3c;
   }
   &:focus {
     outline: none;

@@ -6,13 +6,15 @@ import { Button, Input } from 'components/common';
 import { recaptcha_key } from 'data/config';
 import { Error, Center, InputField } from './styles';
 
+
+const isSubmitting = (form) => {
+console.log('sdds')
+}
+
 const ContactForm = ({ setFieldValue, isSubmitting, values, errors, touched }) => (
   <Form
-    name="portfolio-dev"
+  onSubmit={isSubmitting}
     method="post"
-    data-netlify="true"
-    data-netlify-recaptcha="true"
-    data-netlify-honeypot="bot-field"
   >
     <InputField>
       <Input as={FastField} type="text" name="name" component="input" aria-label="name" placeholder="Full name*" />

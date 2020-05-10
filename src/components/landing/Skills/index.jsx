@@ -18,7 +18,7 @@ export const Skills = () => (
           stiller med et topp forberedt team som gir tryggheten som kreves for at deres prosjekteter skal lykkes.
         </p>
         <Button as={AnchorLink} href="#contact">
-          Contact me
+          Kontakt oss
         </Button>
       </Details>
     </SkillsWrapper>
