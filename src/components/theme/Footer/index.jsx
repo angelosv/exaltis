@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 import { Container } from 'components/common';
 import { Row, Col } from 'reactstrap';
 import { FaTwitter, FaLinkedinIn, FaGooglePlusG } from 'react-icons/fa';
-import logo from 'assets/illustrations/logo2.jpg';
+import logo from 'assets/illustrations/logo.png';
 import { Wrapper, Flex, Links, Details, FooterWraper } from './styles';
 import social from './social.json';
 import * as globalVariables from '../../utils/styles';
@@ -19,7 +19,9 @@ export const Footer = () => (
 
       <Links>
         <ul>
-          <li><b>Exaltis AS</b></li>
+          <li>
+            <b>Exaltis AS</b>
+          </li>
           <li>Org.nr. 922593159</li>
           <li>+47 (0)8888 8888</li>
           <li>Meierivegen 10, 2340 Løten, Norge</li>
