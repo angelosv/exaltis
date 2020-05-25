@@ -4,20 +4,22 @@ const cors = require('cors')({ origin: true });
 // // Create and Deploy Your First Cloud Functions
 // // https://firebase.google.com/docs/functions/write-firebase-functions
 let transporter = nodemailer.createTransport({
-  service: 'gmail',
+  host: 'send.one.com',
+  port: 465,
+  secure: true, // upgrade later with STARTTLS
   auth: {
-    user: 'angelosepulvedav@gmail.com',
-    pass: '02102140210214',
+    user: 'no-reply@exaltis.no',
+    pass: 'Exaltis2020',
   },
 });
 
 exports.sendMail = functions.https.onRequest((req, res) => {
   cors(req, res, () => {
     // getting dest email by query string
-    const dest = req.query.dest;
+    const dest = 'angelo.sv@iqplus.no';
 
     const mailOptions = {
-      from: 'Your Account Name <yourgmailaccount@gmail.com>', // Something like: Jane Doe <janedoe@gmail.com>
+      from: 'Your Account Name <no-reply@exaltis.no>', // Something like: Jane Doe <janedoe@gmail.com>
       to: dest,
       subject: "I'M A PICKLE!!!", // email subject
       html: `<p style="font-size: 16px;">Pickle Riiiiiiiiiiiiiiiick!!</p>
