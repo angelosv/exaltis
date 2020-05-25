@@ -16,10 +16,8 @@ export const Intro = () => (
           MED EXALTIS
         </h1>
         <p>
-        Leverandør av stillas med base i Innlandet.
-Vi leverer stillas til alt innen nybygg i tillegg til
-vedlikehold og ombygg av private og offentlige bygg.
-Vårer kunder er hovedsakelig i Oslo, Viken og Innlandet fylker.
+          Leverandør av stillas med base i Oslo. Vi leverer stillas til alt innen nybygg i tillegg til vedlikehold og
+          ombygg av private og offentlige bygg. Vårer kunder er hovedsakelig i Oslo, Viken og Innlandet fylker.
         </p>
         <Button as={AnchorLink} href="#omoss">
           Om oss
