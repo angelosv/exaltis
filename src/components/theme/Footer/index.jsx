@@ -23,7 +23,8 @@ export const Footer = () => (
             <b>Exaltis AS</b>
           </li>
           <li>Org.nr. 922593159</li>
-          <li>+47 (0)8888 8888</li>
+          <li>+47 969 22 352</li>
+          <li>+47 941 95 605</li>
           <li>Meierivegen 10, 2340 Løten, Norge</li>
           <li>post@Exaltis.no</li>
         </ul>
