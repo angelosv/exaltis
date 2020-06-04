@@ -2,9 +2,9 @@ import styled from 'styled-components';
 
 export const Wrapper = styled.div`
   a {
-    color: #fff;
+    color: #000;
     text-decoration: none;
-	font-weight:600;
+    font-weight: 600;
   }
 
   ${({ desktop }) =>

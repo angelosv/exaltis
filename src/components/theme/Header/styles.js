@@ -3,8 +3,8 @@ import styled from 'styled-components';
 export const Wrapper = styled.div`
   background: transparent;
   width: 100%;
-  img{
-    width:200px;
+  img {
+    width: 200px;
   }
 `;
 
